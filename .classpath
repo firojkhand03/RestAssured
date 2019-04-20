@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/docs/json-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/docs/json-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/docs/rest-assured-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/docs/rest-assured-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/docs/rest-assured-common-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/docs/rest-assured-common-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/docs/xml-path-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/docs/xml-path-3.3.0-sources.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/rest-assured-3.3.0.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/groovy-2.4.15.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/groovy-json-2.4.15.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/groovy-xml-2.4.15.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/jaxb-api-2.2.12.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/jaxb-osgi-2.2.10.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="G:/jar/restassured/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
